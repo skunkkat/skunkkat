@@ -22,7 +22,7 @@
 
 <h2>
   <p align="center">
-  call me skunk or ori!
+  call me skunk or ori! (˶˃ᆺ˂˶)
   </p>
 </h2>
 
@@ -39,7 +39,7 @@
 </h3>
 
   <p align="center">
-    ✿ PLEASE PLEASE CUDDLE, HUG, KISS, INTERACT HOWEVER YOU WANT!! the whole reason im on pony town is to have fun with people so please please please dont hesitate to hang out
+    ✿ PLEASE PLEASE CUDDLE, HUG, KISS, INTERACT HOWEVER YOU WANT!! the whole reason im on pony town is to have fun with people so please please please dont hesitate to hang out ≽^•⩊•^≼
   </p>
   
   <p align="center">
@@ -51,7 +51,7 @@
   </p>
 
   <p align="center">
-    ✿ im offtab very often so whisper if you wanna chat! however i have adhd so i might forget im even on pt and not respond in time (╥﹏╥) sorry in advance
+    ✿ im offtab very often so whisper if you wanna chat! however i have adhd so i might forget im even on pt and not respond in time    (╥﹏╥) sorry in advance
   </p>
 
 <h3>
