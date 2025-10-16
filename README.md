@@ -81,7 +81,7 @@
 ✩ inscryption <img src="https://media.tenor.com/3lIx8hhpIWcAAAAi/inscryption-p03.gif" width="30">
 </p>
 <p align="center">
-✩ deltarune   <img src="https://media.tenor.com/q7fTDVCgqLsAAAAi/noelle-holiday-noelle.gif" width="20">
+✩ silksong   <img src="https://media.tenor.com/Z930G5XKcy0AAAAi/hollow-knight-hornet.gif" width="20">
 </p>
 <p align="center">
 ✩ ROBOTS!! (AM, edgar, GladOS, hal, pAInter, p03)
