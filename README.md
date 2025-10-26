@@ -41,10 +41,6 @@
   <p align="center">
     ✿ PLEASE PLEASE CUDDLE, HUG, KISS, INTERACT HOWEVER YOU WANT!! the whole reason im on pony town is to have fun with people so please please please dont hesitate to hang out ≽^•⩊•^≼
   </p>
-  
-  <p align="center">
-    ✿ i may be a bit awkward at times , i tend to match peoples energy so if ure quiet im gonna be even quieter ,, WORRY NOT!! i do not mind silence or awkwardness so dont feel bad about anything :3c
-  </p>
 
   <p align="center">
     ✿ im literally almost always at docks. if im online and not at docks something is very wrong (joke)
