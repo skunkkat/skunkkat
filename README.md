@@ -4,12 +4,6 @@
 </head>
 <body>
   
-<h6>
-  <p align="center">
-《 now playing ♫ Renee - SALES 》
-   </p>
-</h6>
-  
 <p align="center">
   <img src="https://media.tenor.com/4u45Y44ybL0AAAAi/rain-world.gif" width="300">
 </p>
@@ -39,7 +33,7 @@
 </h3>
 
   <p align="center">
-    ✿ PLEASE PLEASE CUDDLE, HUG, KISS, INTERACT HOWEVER YOU WANT!! the whole reason im on pony town is to have fun with people so please please please dont hesitate to hang out ≽^•⩊•^≼
+    ✿ PLEASE PLEASE CUDDLE, HUG, KISS, INTERACT HOWEVER YOU WANT!!
   </p>
 
   <p align="center">
@@ -47,7 +41,7 @@
   </p>
 
   <p align="center">
-    ✿ im offtab very often so whisper if you wanna chat! however i have adhd so i might forget im even on pt and not respond in time    (╥﹏╥) sorry in advance
+    ✿ im offtab very often so whisper if you wanna chat! however i have adhd so i might forget im even on pt and not respond in time. sorry in advance
   </p>
 
 <h3>
