@@ -55,6 +55,10 @@
 </p>
 
 <p align="center">
+❆ dni if youre just gonna be mean or something ! be nice ok.
+</p>
+
+<p align="center">
 ❆ uncool people (/joke)
 </p>
 
