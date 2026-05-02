@@ -33,11 +33,7 @@
 </h3>
 
   <p align="center">
-    ✿ PLEASE PLEASE CUDDLE, HUG, KISS, INTERACT HOWEVER YOU WANT!!
-  </p>
-
-  <p align="center">
-    ✿ im literally almost always at docks. if im online and not at docks something is very wrong (joke)
+    ✿ PLEASE PLEASE CUDDLE, HUG, INTERACT HOWEVER YOU WANT!!
   </p>
 
   <p align="center">
@@ -55,16 +51,20 @@
 </p>
 
 <p align="center">
-❆ dni if youre just gonna be mean or something ! be nice ok.
+❆ hh / hb fans
 </p>
 
 <p align="center">
-❆ uncool people (/joke)
+❆ dni if youre just gonna be mean or something be nice ok.
+</p>
+
+<p align="center">
+❆ uncool people (joke)
 </p>
 
 <h3>
   <p align="center">
-  stuff i like (pleas hmu if u like any of em):
+  stuff i like (pleas hmu if u like any of tem):
   </p>
 </h3>
 
@@ -75,10 +75,10 @@
 ✩ inscryption <img src="https://media.tenor.com/3lIx8hhpIWcAAAAi/inscryption-p03.gif" width="30">
 </p>
 <p align="center">
-✩ silksong   <img src="https://media.tenor.com/Z930G5XKcy0AAAAi/hollow-knight-hornet.gif" width="40">
+✩ minecraft   <img src="https://media.tenor.com/USAHOD-uTOcAAAAi/minecraft-parrot.gif" width="40">
 </p>
 <p align="center">
-✩ ROBOTS!! (AM, edgar, GladOS, hal, pAInter, p03)
+✩ ROBOTS!! (AM, edgar, GladOS, hal, p03)
 </p>
 <h6>
   <p align="center">
