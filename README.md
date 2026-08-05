@@ -1,108 +1,37 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-  
-<p align="center">
-  <img src="https://media.tenor.com/4u45Y44ybL0AAAAi/rain-world.gif" width="300">
-</p>
-
-<h6>
-  <p align="center">
-  ( ooh ooh get it moon ooh )
-  </p>
-</h6>
-
-<h2>
-  <p align="center">
-  call me skunk or ori! (˶˃ᆺ˂˶)
-  </p>
-</h2>
-
-  <h6>
-    <p align="center">
-  they/them, lesbian, 16+
-    </p>
-  </h6>
-
-<h3>
-  <p align="center">
-  ooh fun info:
-  </p>
-</h3>
-
-  <p align="center">
-    ✿ PLEASE PLEASE CUDDLE, HUG, INTERACT HOWEVER YOU WANT!!
-  </p>
-
-  <p align="center">
-    ✿ im offtab very often so whisper if you wanna chat! however i have adhd so i might forget im even on pt and not respond in time. sorry in advance
-  </p>
-
-<h3>
-  <p align="center">
-  dni:
-  </p>
-</h3>
-
-<p align="center">
-❆ proship, comship, darkship etc.
-</p>
-
-<p align="center">
-❆ hh / hb fans
-</p>
-
-<p align="center">
-❆ dni if youre just gonna be mean or something be nice ok.
-</p>
-
-<p align="center">
-❆ uncool people (joke)
-</p>
-
-<h3>
-  <p align="center">
-  stuff i like (pleas hmu if u like any of tem):
-  </p>
-</h3>
-
-<p align="center">
-✩ RAIN WORLD!! <img src="https://media.tenor.com/mK9YwujlmwYAAAAi/dancinha-rain-world.gif" width="30">
-</p>
-<p align="center">  
-✩ inscryption <img src="https://media.tenor.com/3lIx8hhpIWcAAAAi/inscryption-p03.gif" width="30">
-</p>
-<p align="center">
-✩ minecraft   <img src="https://media.tenor.com/USAHOD-uTOcAAAAi/minecraft-parrot.gif" width="40">
-</p>
-<p align="center">
-✩ ROBOTS!! (AM, edgar, GladOS, hal, p03)
-</p>
-<h6>
-  <p align="center">
-  if you recognize all of those kiss me NOW.
-  </p>
-</h6>
-
-<h3>
-  <p align="center">
-  GO MY GIFLINGS
-  </p>
-</h3>
-
-<p align="center">
-<img src="https://media1.tenor.com/m/IjEPEVtPVFAAAAAC/rain-world-slugcats.gif" width="300">
-<img src="https://media1.tenor.com/m/4cKEmKXC0y4AAAAC/rainworld-slugcat.gif" width="200">
-<img src="https://media1.tenor.com/m/BRLYGjywdvkAAAAd/rain-world-rain.gif" width="300">
-<img src="https://media1.tenor.com/m/gpXnd6H-FR0AAAAC/rain-world-slugcat.gif" width="300">
-<img src="https://media1.tenor.com/m/P-Exvl4ZUfIAAAAC/slugcat-rain-world.gif" width="300">
-<img src="https://media1.tenor.com/m/ZBISEZS4eJYAAAAC/slugcat-rain-world.gif" width="300">
-<img src="https://media1.tenor.com/m/uc7YYoQTx-0AAAAC/slugcat-rain-world.gif" width="300">
-<img src="https://media1.tenor.com/m/7NFQ_ncraSQAAAAd/rain-world-mmm-myes-pet-scug.gif" width="300">
-<img src="https://media1.tenor.com/m/tJrvnrsZUoEAAAAC/rain-world-looks-to-the-moon.gif" width="300">
-<img src="https://media1.tenor.com/m/NWCZwasvP_AAAAAC/rain-world-five-pebbles.gif" width="300">
-<img src="https://media1.tenor.com/m/Oy7W5w2Bg_AAAAAC/rain-world-rainworld.gif" width="300">
-<img src="https://media1.tenor.com/m/ckOFmEHhBv8AAAAC/moth-yay.gif" width="300">
-<img src="https://media1.tenor.com/m/2of-DJWSK-4AAAAC/rain-world-rain.gif" width="300">
+<p align="center"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.postimg.cc/7LJqXjLz/moondivider.png" width="509" height="132" /></p>
+<hr />
+<p align="center">$\color{#ffffff}{\textsf{` ` hello little creature.}}$</p>
+<p align="center">$\color{#ffffff}{\textsf{what are you? if i had my memories i would know... ` `}}$</p>
+<hr />
+<table style="height: 597px;" width="810" align="center">
+<tbody>
+<tr>
+<td style="width: 459px;"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdkZWswM3A3N3AwanRjYnJoNnk0aXUwb2VmanEwejc3YTJ0MTV0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YSrDljKpiTS9hAg6mH/giphy.gif" alt="" width="442" height="361" /></td>
+<td style="width: 358.929px;" align="center">
+<p>$\color{#ffffff}{\textsf{ori / skunk / coy / angel}}$</p>
+<p>$\color{#808080}{\textsf{they / them}}$</p>
+<p>$\color{#ffffff}{\textsf{lesbian . 16+ . eu}}$</p>
+<p>$\color{#ffffff}{\textsf{c + h encouraged ! i love pony cuddles}}$</p>
+<p>&nbsp; &nbsp; $\color{#808080}{\textsf{always offtab , w2i . it might take a very long time}}$</p>
+<p>$\color{#808080}{\textsf{for me to respond to whispers ,}}$</p>
+<p>$\color{#808080}{\textsf{or i wont respond at all , sorry in advance !}}$</p>
+</td>
+</tr>
+<tr>
+<td style="width: 459px;" align="center">&nbsp;
+<p>$\color{#ffffff}{\textsf{dni}}$</p>
+<p>$\color{#808080}{\textsf{proshippers}}$</p>
+<p>$\color{#808080}{\textsf{under 13}}$</p>
+<p>$\color{#808080}{\textsf{hazbin hotel / helluva boss}}$</p>
+<p>$\color{#808080}{\textsf{mean / uncool people xp}}$</p>
+<p>&nbsp;</p>
+</td>
+<td style="width: 358.929px;">&nbsp;<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW52MTExcDlyYWNtbzBiN2UycThzamlueGJ6cjVyZ3FkeXY5a3IxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L0H7Aip7jvnyBtzWEg/giphy.gif" alt="" width="414" height="233" /></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p align="center">$\color{#ffffff}{\textsf{more info in }}$<a href="https://lookstothesun.straw.page/">strawpage</a></p>
+<hr />
+<p align="center">$\color{#808080}{\textsf{awesome gif collection}}$</p>
+<p align="center"><img src="https://media1.tenor.com/m/IjEPEVtPVFAAAAAC/rain-world-slugcats.gif" width="300" /> <img src="https://media1.tenor.com/m/4cKEmKXC0y4AAAAC/rainworld-slugcat.gif" width="200" /> &nbsp;<img src="https://media1.tenor.com/m/gpXnd6H-FR0AAAAC/rain-world-slugcat.gif" width="300" /> <img src="https://media1.tenor.com/m/P-Exvl4ZUfIAAAAC/slugcat-rain-world.gif" width="300" /> <img src="https://media1.tenor.com/m/ZBISEZS4eJYAAAAC/slugcat-rain-world.gif" width="300" /> <img src="https://media1.tenor.com/m/uc7YYoQTx-0AAAAC/slugcat-rain-world.gif" width="300" /> <img src="https://media1.tenor.com/m/7NFQ_ncraSQAAAAd/rain-world-mmm-myes-pet-scug.gif" width="300" /> <img src="https://media1.tenor.com/m/tJrvnrsZUoEAAAAC/rain-world-looks-to-the-moon.gif" width="300" /> <img src="https://media1.tenor.com/m/NWCZwasvP_AAAAAC/rain-world-five-pebbles.gif" width="300" /> <img src="https://media1.tenor.com/m/Oy7W5w2Bg_AAAAAC/rain-world-rainworld.gif" width="300" /> <img src="https://media1.tenor.com/m/ckOFmEHhBv8AAAAC/moth-yay.gif" width="300" /> <img src="https://media1.tenor.com/m/2of-DJWSK-4AAAAC/rain-world-rain.gif" width="300" /></p>
