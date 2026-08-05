@@ -3,11 +3,11 @@
 <p align="center">$\color{#ffffff}{\textsf{` ` hello little creature.}}$</p>
 <p align="center">$\color{#ffffff}{\textsf{what are you? if i had my memories i would know... ` `}}$</p>
 <hr />
-<table style="height: 597px;" width="810" align="center">
+<table style="height: 603px;" width="847" align="center">
 <tbody>
 <tr>
-<td style="width: 459px;"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdkZWswM3A3N3AwanRjYnJoNnk0aXUwb2VmanEwejc3YTJ0MTV0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YSrDljKpiTS9hAg6mH/giphy.gif" alt="" width="442" height="361" /></td>
-<td style="width: 358.929px;" align="center">
+<td style="width: 441.991px;"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdkZWswM3A3N3AwanRjYnJoNnk0aXUwb2VmanEwejc3YTJ0MTV0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YSrDljKpiTS9hAg6mH/giphy.gif" alt="" width="418" height="342" /></td>
+<td style="width: 418.929px;" align="center">
 <p>$\color{#ffffff}{\textsf{ori / skunk / coy / angel}}$</p>
 <p>$\color{#808080}{\textsf{they / them}}$</p>
 <p>$\color{#ffffff}{\textsf{lesbian . 16+ . eu}}$</p>
@@ -18,7 +18,7 @@
 </td>
 </tr>
 <tr>
-<td style="width: 459px;" align="center">&nbsp;
+<td style="width: 441.991px;" align="center">&nbsp;
 <p>$\color{#ffffff}{\textsf{dni}}$</p>
 <p>$\color{#808080}{\textsf{proshippers}}$</p>
 <p>$\color{#808080}{\textsf{under 13}}$</p>
@@ -26,7 +26,7 @@
 <p>$\color{#808080}{\textsf{mean / uncool people xp}}$</p>
 <p>&nbsp;</p>
 </td>
-<td style="width: 358.929px;">&nbsp;<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW52MTExcDlyYWNtbzBiN2UycThzamlueGJ6cjVyZ3FkeXY5a3IxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L0H7Aip7jvnyBtzWEg/giphy.gif" alt="" width="414" height="233" /></td>
+<td style="width: 418.929px;">&nbsp;<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW52MTExcDlyYWNtbzBiN2UycThzamlueGJ6cjVyZ3FkeXY5a3IxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L0H7Aip7jvnyBtzWEg/giphy.gif" alt="" width="395" height="222" /></td>
 </tr>
 </tbody>
 </table>
