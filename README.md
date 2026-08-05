@@ -6,7 +6,7 @@
 <table style="height: 603px;" width="847" align="center">
 <tbody>
 <tr>
-<td style="width: 441.991px;"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdkZWswM3A3N3AwanRjYnJoNnk0aXUwb2VmanEwejc3YTJ0MTV0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YSrDljKpiTS9hAg6mH/giphy.gif" alt="" width="418" height="342" /></td>
+<td style="width: 441.991px;"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdkZWswM3A3N3AwanRjYnJoNnk0aXUwb2VmanEwejc3YTJ0MTV0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YSrDljKpiTS9hAg6mH/giphy.gif" alt="" width="403" height="330" /></td>
 <td style="width: 418.929px;" align="center">
 <p>$\color{#ffffff}{\textsf{ori / skunk / coy / angel}}$</p>
 <p>$\color{#808080}{\textsf{they / them}}$</p>
@@ -26,7 +26,7 @@
 <p>$\color{#808080}{\textsf{mean / uncool people xp}}$</p>
 <p>&nbsp;</p>
 </td>
-<td style="width: 418.929px;">&nbsp;<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW52MTExcDlyYWNtbzBiN2UycThzamlueGJ6cjVyZ3FkeXY5a3IxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L0H7Aip7jvnyBtzWEg/giphy.gif" alt="" width="395" height="222" /></td>
+<td style="width: 418.929px;">&nbsp;<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW52MTExcDlyYWNtbzBiN2UycThzamlueGJ6cjVyZ3FkeXY5a3IxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L0H7Aip7jvnyBtzWEg/giphy.gif" alt="" width="377" height="212" /></td>
 </tr>
 </tbody>
 </table>
